@@ -25,3 +25,8 @@ Here are some things about me:
 <a href="https://www.linkedin.com/in/abhinav6951631b6/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
 <a href="https://www.facebook.com/abhinav.as.99/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a>
 <a href="https://www.instagram.com/abhi_navv__"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
+<br>
+<Br>
+<a href="#!">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav0000&theme=onedark" alt="Abhinav's Github Stats" />
+</a>
