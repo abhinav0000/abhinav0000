@@ -16,3 +16,12 @@ Here are some things about me:
 - 📫 How to reach me: ... abhinavsharma1212@outlook.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Every possible thing was once impossible
+<br/>
+<br/>
+
+
+**Connect  with me:**
+
+<a href="https://www.linkedin.com/in/abhinav6951631b6/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
+<a href="https://www.facebook.com/abhinav.as.99/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a>
+<a href="https://www.instagram.com/abhi_navv__"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
