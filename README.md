@@ -30,3 +30,5 @@ Here are some things about me:
 <a href="#!">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav0000&theme=onedark" alt="Abhinav's Github Stats" />
 </a>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0000&layout=compact)](https://github.com/abhinav0000/github-readme-stats)
